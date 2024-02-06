@@ -6,7 +6,7 @@ import Gallery from "./components/Gallery.js";
 import Home from "./components/Home.js";
 import Store from "./components/Store.js";
 import Login from "./components/Login.js";
-import PageNotFound from "./components/PageNotFound";
+// import PageNotFound from "./components/PageNotFound";
 
 export default function App() {
   return (
@@ -14,13 +14,13 @@ export default function App() {
       <div className="App container  ">
         <NavBar />
         <Routes>
-          <Route exact path="/" element={<Home />}></Route>
+          <Route path="/" element={<Home />}></Route>
           <Route path="Business-Management" element={<Home />}></Route>
           <Route path="Contact" element={<Contact />}></Route>
           <Route path="Gallery" element={<Gallery />}></Route>
           <Route path="Store" element={<Store />}></Route>
           <Route path="Login" element={<Login />}></Route>
-          <Route path="*" element={<PageNotFound />}></Route>
+          {/* <Route path="*" element={<PageNotFound />}></Route> */}
         </Routes>
       </div>
     </BrowserRouter>
