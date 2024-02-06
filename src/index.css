@@ -1,0 +1,73 @@
+/* ********************************* */
+/*            Variables              */
+/* ********************************* */
+:root {
+  --main-color: #2f9e44;
+  --gray-color: #3a3a3b;
+  --secondary-color: #f1f3f5;
+}
+
+/* ********************************* */
+/*            General Style          */
+/* ********************************* */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-image: url("./components/images/globalBack.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 900px;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #3a3a3b;
+  font-family: "Comfortaa", "Raleway", sans-serif;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+
+*:focus-visible {
+  outline: #2f9e44;
+}
+
+/* ********************************* */
+/*            Container              */
+/* ********************************* */
+.container {
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2%;
+  padding-right: 2%;
+  background-color: var(--secondary-color);
+  border-radius: 40px;
+  height: -moz-fit-content;
+  height: fit-content;
+  padding-bottom: 2.4rem;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}

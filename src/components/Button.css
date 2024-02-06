@@ -1,0 +1,18 @@
+.app-button {
+  cursor: pointer;
+  color: white;
+  width: fit-content;
+  background-color: var(--main-color);
+  text-align: center;
+  border: 0.2rem solid var(--main-color);
+  border-radius: 2rem;
+  padding: 0.7rem 1rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+  transition-duration: 0.3s;
+}
+
+.app-button:hover {
+  color: var(--main-color);
+  background-color: white;
+}
