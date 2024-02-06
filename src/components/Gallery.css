@@ -7,7 +7,12 @@
   padding: 0 1.6em;
 }
 .gallery-image {
+  cursor: grab;
   padding: 1.6em;
+}
+
+.gallery-image:active {
+  cursor: grabbing;
 }
 
 .gallery-image-img {
