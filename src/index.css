@@ -22,16 +22,17 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  height: 900px;
+  /* height: 900px; */
   font-size: 62.5%;
   scroll-behavior: smooth;
+  overflow-x: clip;
 }
 
 body {
   color: #3a3a3b;
   font-family: "Comfortaa", "Raleway", sans-serif;
   font-weight: 400;
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 *:focus-visible {

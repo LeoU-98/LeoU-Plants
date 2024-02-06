@@ -212,7 +212,7 @@
 /* *************************** */
 /*          Cart               */
 /* *************************** */
-.tools .cart-info {
+.cart-info {
   position: absolute;
   background-color: var(--secondary-color);
   width: 40rem;
@@ -233,7 +233,7 @@
   min-height: 44.4rem;
 }
 
-.tools .cart {
+.cart {
   position: relative;
 }
 

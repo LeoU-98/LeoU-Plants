@@ -145,6 +145,10 @@
     justify-self: center;
   }
 
+  .tools .cart-info {
+    display: none;
+  }
+
   .plant-info {
     padding: 0 1.6em;
     padding-bottom: 0.8em;
