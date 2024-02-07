@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/LeoU-Plants/static/css/main.940be660.css",
-    "main.js": "/LeoU-Plants/static/js/main.588eeee0.js",
+    "main.js": "/LeoU-Plants/static/js/main.b82e6f4e.js",
     "static/js/787.b980ec62.chunk.js": "/LeoU-Plants/static/js/787.b980ec62.chunk.js",
     "static/media/HomeBackground.png": "/LeoU-Plants/static/media/HomeBackground.3276cfeb99176be69cd3.png",
     "static/media/schefflera-varigated.jpg": "/LeoU-Plants/static/media/schefflera-varigated.95e1debc644f7b561ada.jpg",
-    "static/media/xLogo.png": "/LeoU-Plants/static/media/xLogo.6990dfc86ddba1382c6b.png",
     "static/media/globalBack.jpg": "/LeoU-Plants/static/media/globalBack.4d63ec22b585736df492.jpg",
     "static/media/ContactBackground.png": "/LeoU-Plants/static/media/ContactBackground.42251c09279c08228e2d.png",
     "static/media/bamboo-palm_stone.jpg": "/LeoU-Plants/static/media/bamboo-palm_stone.b38bfc4fe735fca17eac.jpg",
@@ -40,11 +39,11 @@
     "static/media/slick.woff": "/LeoU-Plants/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/LeoU-Plants/index.html",
     "main.940be660.css.map": "/LeoU-Plants/static/css/main.940be660.css.map",
-    "main.588eeee0.js.map": "/LeoU-Plants/static/js/main.588eeee0.js.map",
+    "main.b82e6f4e.js.map": "/LeoU-Plants/static/js/main.b82e6f4e.js.map",
     "787.b980ec62.chunk.js.map": "/LeoU-Plants/static/js/787.b980ec62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.940be660.css",
-    "static/js/main.588eeee0.js"
+    "static/js/main.b82e6f4e.js"
   ]
 }
