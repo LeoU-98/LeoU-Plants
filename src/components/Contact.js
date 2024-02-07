@@ -100,13 +100,13 @@ export default function Contact() {
           </Link>
         </div>
         <div className="social-icon">
-          <Link to="https://twitter.com/">
-            <img src={xLogo} alt="Twitter" />
+          <Link to="https://www.facebook.com/">
+            <img src={FacebookLogo} alt="Facebook" />
           </Link>
         </div>
         <div className="social-icon">
-          <Link to="https://www.facebook.com/">
-            <img src={FacebookLogo} alt="Facebook" />
+          <Link to="https://twitter.com/">
+            <img src={xLogo} alt="Twitter" />
           </Link>
         </div>
         <div className="social-icon">
