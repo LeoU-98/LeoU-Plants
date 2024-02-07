@@ -5,7 +5,7 @@ import "./MediaQueries.css";
 import Button from "./Button";
 import ContactBackground from "./images/ContactBackground.png";
 import WAppLogo from "./images/WAppLogo.png";
-import TwitterLogo from "./images/TwitterLogo.png";
+import xLogo from "./images/xLogo.png";
 import FacebookLogo from "./images/FacebookLogo.png";
 import InstaLogo from "./images/InstaLogo.png";
 
@@ -101,7 +101,7 @@ export default function Contact() {
         </div>
         <div className="social-icon">
           <Link to="https://twitter.com/">
-            <img src={TwitterLogo} alt="Twitter" />
+            <img src={xLogo} alt="Twitter" />
           </Link>
         </div>
         <div className="social-icon">
