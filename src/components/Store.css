@@ -307,6 +307,7 @@
   height: 4.6rem;
   align-self: center;
   justify-self: center;
+  background-color: transparent;
 }
 .btn-delete-cart-item img {
   cursor: pointer;

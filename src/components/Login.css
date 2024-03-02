@@ -63,11 +63,12 @@
 }
 
 .login-create-btn {
+  border: none;
+  color: inherit;
   cursor: pointer;
   font-size: 1.8rem;
-  color: inherit;
-  border: none;
   transition: all 0.3s;
+  background-color: transparent;
 }
 .login-create-btn:hover {
   color: #51cf66;
