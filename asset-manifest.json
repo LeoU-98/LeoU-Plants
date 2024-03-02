@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LeoU-Plants/static/css/main.b833f132.css",
+    "main.css": "/LeoU-Plants/static/css/main.30d1e929.css",
     "main.js": "/LeoU-Plants/static/js/main.b82e6f4e.js",
     "static/js/787.b980ec62.chunk.js": "/LeoU-Plants/static/js/787.b980ec62.chunk.js",
     "static/media/HomeBackground.png": "/LeoU-Plants/static/media/HomeBackground.3276cfeb99176be69cd3.png",
@@ -38,12 +38,12 @@
     "static/media/slick.ttf": "/LeoU-Plants/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/LeoU-Plants/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/LeoU-Plants/index.html",
-    "main.b833f132.css.map": "/LeoU-Plants/static/css/main.b833f132.css.map",
+    "main.30d1e929.css.map": "/LeoU-Plants/static/css/main.30d1e929.css.map",
     "main.b82e6f4e.js.map": "/LeoU-Plants/static/js/main.b82e6f4e.js.map",
     "787.b980ec62.chunk.js.map": "/LeoU-Plants/static/js/787.b980ec62.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b833f132.css",
+    "static/css/main.30d1e929.css",
     "static/js/main.b82e6f4e.js"
   ]
 }
